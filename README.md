@@ -16,7 +16,7 @@
 
 ## Usage
 1. Copy the file `UpdateRyujinx.sh` from the repository to wherever you want on the Steam Deck
-2. Add permitions to write and execute with chmod to the file and you are done!
+2. To Allow the Script to write and execute on your Steam Deck, run the command: `chmod 777 /path/to/folder/UpdateRyujinx.sh`.
 3. Optional - Copy `RyujinxUpdate.desktop` from the repository to the following path: `/home/deck/.local/share/applications/`. (This allows you to add a customized shortcut for the script for the desktop or Steam's GamingMode
 4. Run the emulator, the new path is `/home/deck/Applications/publish/Ryujinx.Ava`.
 5. Enjoy
