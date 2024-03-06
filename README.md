@@ -1,3 +1,5 @@
+## This repo has been archived as the Avalonia finally merged into the Main version of ryujinx
+
 # RyujinxAVAUpdateDeck
 *This script is ment for the steam deck with emudeck installed though it may work without emudeck or on another linux build altogether.
 
